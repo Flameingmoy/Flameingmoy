@@ -125,9 +125,3 @@ Intelligent supply chain optimization for volatile products
 💼 **Open to:** Full-time opportunities, internships, and collaborations
 
 ---
-
-<div align="center">
-
-*"Building intelligent systems that bridge the gap between cutting-edge AI and practical business solutions."*
-
-</div>
