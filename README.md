@@ -130,6 +130,4 @@ Intelligent supply chain optimization for volatile products
 
 *"Building intelligent systems that bridge the gap between cutting-edge AI and practical business solutions."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Flameingmoy&color=blueviolet&style=for-the-badge)
-
 </div>
