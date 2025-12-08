@@ -113,15 +113,6 @@ Intelligent supply chain optimization for volatile products
 
 **Tech:** LangChain, Snowflake Arctic, Streamlit, Plotly
 
----
-
-## 📊 GitHub Stats
-
-![Chinmay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Flameingmoy&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flameingmoy&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Flameingmoy&theme=radical&hide_border=true&background=0d1117)
 
 ---
 
