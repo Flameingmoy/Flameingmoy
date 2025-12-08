@@ -63,59 +63,6 @@ I am a CS undergrad passionate about machine learning, backend architectures and
 
 ---
 
-## 🔥 Featured Projects
-
-### [CUDA Message Queue](https://github.com/Flameingmoy/cuda-message-queue)
-High-performance GPU-resident message queue achieving **65K msg/s** throughput
-- 1.7× faster than Redis with persistent CUDA kernel architecture
-- VRAM-backed ring buffer with libcu++ atomic synchronization
-- Production-grade Python API with async pipelining
-
-**Tech:** CUDA, C++, Python, pybind11
-
----
-
-### [Atlas](https://github.com/Flameingmoy/atlas)
-AI-powered business location intelligence platform with **314K+ POI data points**
-- Natural language query interface for optimal location discovery
-- Multi-agent system with 11-criteria scoring and gap analysis
-- Real-time market research with isochrone-based competitor mapping
-
-**Tech:** LangChain, PostGIS, Docker, MapLibre GL, FastAPI
-
----
-
-### [Real-Time Financial Sentiment Analysis](https://github.com/Flameingmoy/financial-sentiment)
-Distributed pipeline processing **100+ messages/second** from financial news
-- Golang webhook ingestion with 500ms latency
-- Apache Kafka for async microservices communication
-- Redis vector store with similarity search capabilities
-
-**Tech:** Golang, Kafka, Redis, PostgreSQL, Grafana, GPT OSS
-
----
-
-### [Agentic Financial Assistant](https://github.com/Flameingmoy/financial-assistant)
-Multi-agent platform for financial analysis and insights
-- Real-time stock data and SEC filings retrieval
-- RAG-powered contextual query answering with FAISS
-- Voice interface with Whisper (STT) and pyttsx3 (TTS)
-
-**Tech:** FastAPI, FAISS, Whisper, yfinance, BeautifulSoup
-
----
-
-### [Perishability Management System](https://github.com/Flameingmoy/perishability-mgmt)
-Intelligent supply chain optimization for volatile products
-- Multi-agent workflow for demand forecasting and inventory monitoring
-- LLM-powered reasoning with Qwen3 32B
-- Interactive Streamlit dashboards with Plotly visualizations
-
-**Tech:** LangChain, Snowflake Arctic, Streamlit, Plotly
-
-
----
-
 ## 📫 Reach out to me:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmay.ds.2003@gmail.com)
