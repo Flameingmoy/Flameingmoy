@@ -1,11 +1,5 @@
 # Hi there, I'm Chinmay! 
-AI/ML Engineer | Full-Stack Developer | System Architect
-
-I am a CS undergrad passionate about machine learning, backend architectures and systems.I build intelligent systems that solve real-world problems, from GPU-accelerated message queues to enterprise AI agents. Naturally curious about how things work under the hood.
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Flameingmoy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmay-d-1410b7255)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmay.ds.2003@gmail.com)
+AI/ML Engineer | Full-Stack Developer | Systems Architect
 
 ## 💻 I'm good at these:
 
