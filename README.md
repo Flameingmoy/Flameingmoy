@@ -1,5 +1,5 @@
 # Hi there, I'm Chinmay! 
-AI/ML Engineer | Full-Stack Developer | Systems Architect
+I Like to Build Cool Things
 
 ## 💻 I'm good at these:
 
